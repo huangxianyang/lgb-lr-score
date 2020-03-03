@@ -3,7 +3,7 @@
 # @Author  : HuangSir
 # @FileName: lgb_lr.py
 # @Software: PyCharm
-# @Description:lgb+lr原生接口模型模型,特征选择及模型训练
+# @Desc:lgb+lr原生接口模型模型,特征选择及模型训练
 import json
 import pandas as pd
 import numpy as np
