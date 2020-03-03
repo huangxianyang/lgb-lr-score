@@ -1,5 +1,4 @@
-# lgb-lr-score
-lightgbm+lr评分模型, 并基于贝叶斯调参方法.
+# lightgbm+lr评分模型, 并基于贝叶斯调参方法.
 ```python
 # -*- coding: utf-8 -*-
 # @Time    : 2020-02-21 15:46
