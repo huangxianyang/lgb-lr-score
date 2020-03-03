@@ -3,7 +3,7 @@
 # @Author  : HuangSir
 # @FileName: lgbParam.py
 # @Software: PyCharm
-# @Description:lgb参数
+# @Desc:lgb参数
 
 from hyperopt import hp
 import numpy as np
